@@ -16,7 +16,7 @@ namespace Ksu.Cis300.ParenthesisMatcher
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new uxWindow());
         }
     }
 }
