@@ -1,5 +1,6 @@
 ﻿/*
- * 
+ * Parenthesis Checker
+ * Author: Lauren Dumler
  * 
  */
 using System;
